@@ -1,4 +1,4 @@
-module github.com/David-Chen-PNG/go-sqlcipher
+module github.com/David-Chen-PNG/sqlcipher-go
 
 go 1.12
 
