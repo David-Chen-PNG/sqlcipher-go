@@ -18,7 +18,7 @@ go-sqlcipher currently only supports the SQLCipher 3.x releases.
 
 This package can be installed with the go get command:
 
-    go get github.com/mutecomm/go-sqlcipher
+    go get github.com/David-Chen-PNG/sqlcipher-go
 
 
 ### Documentation
